@@ -10,7 +10,7 @@ local weather forecast and personal wardrobe. Available on iOS and Android.
 ## Privacy Policy
 
 The privacy policy for FittedForYou is available at:
-https://yourusername.github.io/fittedforyou-privacy
+https://cameron-lettieri.github.io/fittedforyou-privacy
 
 ## Data We Collect
 
@@ -23,7 +23,7 @@ FittedForYou collects the following data to provide its service:
 ## Contact
 
 For any privacy-related questions or concerns, please contact us at:
-your@email.com
+cameron.lettieri@outlook.com
 
 ## Legal
 
