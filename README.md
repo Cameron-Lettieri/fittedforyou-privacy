@@ -27,4 +27,4 @@ cameron.lettieri@outlook.com
 
 ## Legal
 
-© 2024 FittedForYou. All rights reserved.
+© 2026 FittedForYou. All rights reserved.
